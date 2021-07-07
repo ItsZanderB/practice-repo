@@ -1,12 +1,12 @@
-## First Name Last Name
+## Zander Butler
 
 ### Term Year 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Precalsulus Algebra/Trigonomerty
 
-- Course 2
+- Introduction to Data Science
 
 - Course 3
 
@@ -16,11 +16,11 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 I am _passionate about_: 
 
-- Thing 1
+- Reading
 
-- Thing 2
+- Games
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Anime
 
 ***
 
