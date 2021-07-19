@@ -8,10 +8,10 @@ DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) cu
 
 - Introduction to Data Science
 
-|Prefix |Course Number|Course Name                        |Credits|
-|:-----:|:-----------:|:---------------------------------:|:-----:|
-|**MAC**|1147         | _PreCalculus Algebra/Trigonometry_|3      |         
-|**COP**|2073         | _Introduction to Data Science_    |4      |
+|Prefix |Course Number    |Course Name                        |Credits|
+|:-----:|:---------------:|:---------------------------------:|:-----:|
+|**MAC**|**1147**         | _PreCalculus Algebra/Trigonometry_|3      |         
+|**COP**|**2073**         | _Introduction to Data Science_    |4      |
 
 **Hobbies:**
 
